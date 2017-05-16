@@ -1,0 +1,35 @@
+
+{
+"Esparza":[
+{
+"ruta":"Esparza-San Ramon"
+},
+{
+"ruta":"Esparza-Puntarenas( X Costanera)"
+},
+{
+"ruta":"Esparza-Puntarenas( X Barranca)"
+},
+{
+"ruta":"Esparza-Miramar"
+},
+{
+"ruta":"Esparza-Orotina"
+},
+{
+"ruta":"San Ramon-Esparza"
+},
+{
+"ruta":"Puntarenas-Esparza( X Costanera)"
+},
+{
+"ruta":"Puntarenas-Esparza( X Barranca)"
+},
+{
+"ruta":"Miramar-Esparza"
+},
+{
+"ruta":"Orotina-Esparza"
+}
+]
+}

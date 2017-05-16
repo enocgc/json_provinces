@@ -1,0 +1,58 @@
+{
+    "San Jose": [
+      {
+        "Canton":  "Dota"
+      },
+      {
+        "Canton":  "Tarrazu"
+      }
+    ],
+	"Heredia":[
+	  {
+		"Canton":"Barba"
+	  },
+	  {
+	  	"Canton":"Santa Barbara"
+	  }
+	],
+	 "Alajuela":[
+	   {
+	   	"Canton":"San mateo"
+	   },
+	   {
+	   	"Canton":"Naranjo"
+	   }
+	 ],
+	  "Cartago":[
+		{
+		"Canton":"Alvarado"
+		},
+		{
+		"Canton":"La Union"
+		}
+	  ],
+	  "Guanacaste":[
+		{
+		"Canton":"Hojancha"
+		},
+		{
+		"Canton":"Nandayure"
+		}
+	  ],
+	  "Puntarenas":[
+		{
+		"Canton":"Puntarenas"
+		},
+		{
+		"Canton":"Esparza"
+		}
+	  ],
+		"Limon":[
+		  {
+		  "Canton":"Limon"
+		  },
+		  {
+		  "Canton":"Siquirres"
+		  }
+		]
+}

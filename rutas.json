@@ -1,0 +1,43 @@
+{
+	"Esparza": [{
+			"ruta": "Esparza-San Ramon",
+			"id": "ESR"
+		},
+		{
+			"ruta": "Esparza-Puntarenas( X Costanera)",
+			"id": "EPXC"
+		},
+		{
+			"ruta": "Esparza-Puntarenas( X Barranca)",
+			"id": "EPXB"
+		},
+		{
+			"ruta": "Esparza-Miramar",
+			"id": "EM"
+		},
+		{
+			"ruta": "Esparza-Orotina",
+			"id": "EO"
+		},
+		{
+			"ruta": "San Ramon-Esparza",
+			"id": "SRE"
+		},
+		{
+			"ruta": "Puntarenas-Esparza( X Costanera)",
+			"id": "PEXC"
+		},
+		{
+			"ruta": "Puntarenas-Esparza( X Barranca)",
+			"id": "PEXB"
+		},
+		{
+			"ruta": "Miramar-Esparza",
+			"id": "ME"
+		},
+		{
+			"ruta": "Orotina-Esparza",
+			"id": "OE"
+		}
+	]
+}

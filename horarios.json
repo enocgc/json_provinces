@@ -1,0 +1,49 @@
+{
+	"EPXB": [{
+			"salida": "6:00am",
+			"entrada": "6:10 am"
+		},
+		{
+			"salida": "7:00am",
+			"entrada": "7:10 am"
+		},
+        {
+			"salida": "8:00am",
+			"entrada": "8:10 am"
+		},
+        {
+			"salida": "9:00am",
+			"entrada": "9:10 am"
+		},
+        {
+			"salida": "10:00am",
+			"entrada": "10:10 am"
+		}
+
+
+	],
+
+	"SRE": [{
+			"salida": "6:00am",
+			"entrada": "6:10 am"
+		},
+		{
+			"salida": "7:00am",
+			"entrada": "7:10 am"
+		},
+        {
+			"salida": "8:00am",
+			"entrada": "8:10 am"
+		},
+        {
+			"salida": "9:00am",
+			"entrada": "9:10 am"
+		},
+        {
+			"salida": "10:00am",
+			"entrada": "10:10 am"
+		}
+
+
+	]
+}
